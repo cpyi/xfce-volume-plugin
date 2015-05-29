@@ -1,0 +1,2 @@
+> There isn't a good method to manage removable disk on xfce under freebsd. Although thunar(part of XFCE project) provided the thunar-volume-plugin to manage the removable device, but it didn't work on Freebsd. So this plugin is for managing removable device on xfce and freebsd environment.
+![http://i.imgur.com/Qe56P.png](http://i.imgur.com/Qe56P.png)
