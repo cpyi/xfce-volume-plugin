@@ -1,0 +1,1 @@
+xfce-volume-plugin
